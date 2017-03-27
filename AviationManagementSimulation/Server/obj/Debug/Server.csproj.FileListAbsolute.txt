@@ -1,1 +1,17 @@
 E:\AviationManagementSimulation\AviationManagementSimulation\Server\bin\Debug\Server.exe.config
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\bin\Debug\Server.exe.config
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\bin\Debug\Server.exe
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\bin\Debug\Server.pdb
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\MainWindow.g.cs
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\App.g.cs
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server_MarkupCompile.cache
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server_MarkupCompile.lref
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\MainWindow.baml
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server.g.resources
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server.Properties.Resources.resources
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server.exe
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server.pdb
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\bin\Debug\RemotingService.exe
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\bin\Debug\RemotingService.pdb
