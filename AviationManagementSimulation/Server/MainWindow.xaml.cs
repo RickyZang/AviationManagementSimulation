@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting;
+using System.Runtime.Remoting.Channels;
+using System.Runtime.Remoting.Channels.Tcp;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -23,6 +26,14 @@ namespace Server
         public MainWindow()
         {
             InitializeComponent();
+            StartServer();
+        }
+
+        private void StartServer()
+        {
+            TcpServerChannel channel = new TcpServerChannel(8888);
+            ChannelServices.RegisterChannel(channel,false);
+            RemotingConfiguration.RegisterWellKnownServiceType(typeof(CaptainServiceImp), "serverMethod", WellKnownObjectMode.SingleCall);
         }
     }
 }
