@@ -22,7 +22,7 @@ namespace CaptainClient
     {
         public MainWindow()
         {
-            //
+            
             InitializeComponent();
         }
     }

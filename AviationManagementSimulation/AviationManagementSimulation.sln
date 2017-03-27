@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptainClient", "CaptainClient\CaptainClient.csproj", "{9406A5F5-D0EF-4667-B169-43EB9537A133}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotingService", "RemotingService\RemotingService.csproj", "{5E81C8E4-08CA-472D-B346-78D5A6903303}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9406A5F5-D0EF-4667-B169-43EB9537A133}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9406A5F5-D0EF-4667-B169-43EB9537A133}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9406A5F5-D0EF-4667-B169-43EB9537A133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E81C8E4-08CA-472D-B346-78D5A6903303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E81C8E4-08CA-472D-B346-78D5A6903303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E81C8E4-08CA-472D-B346-78D5A6903303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E81C8E4-08CA-472D-B346-78D5A6903303}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
