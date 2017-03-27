@@ -8,5 +8,6 @@ namespace RemotingService
 {
     public interface ICaptainService
     {
+        string TestMethod();
     }
 }
