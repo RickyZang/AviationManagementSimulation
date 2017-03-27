@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\bin\Debug\RemotingService.exe.config
 E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\bin\Debug\RemotingService.exe
 E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\bin\Debug\RemotingService.pdb
 E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\obj\Debug\RemotingService.csprojResolveAssemblyReference.cache
 E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\obj\Debug\RemotingService.exe
 E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\obj\Debug\RemotingService.pdb
+=======
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\RemotingService\bin\Debug\RemotingService.exe.config
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\RemotingService\bin\Debug\RemotingService.exe
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\RemotingService\bin\Debug\RemotingService.pdb
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\RemotingService\obj\Debug\RemotingService.csprojResolveAssemblyReference.cache
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\RemotingService\obj\Debug\RemotingService.exe
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\RemotingService\obj\Debug\RemotingService.pdb
+>>>>>>> d5956cd0e708e20f87df3cdef770cb18e78d9344
