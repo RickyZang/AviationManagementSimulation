@@ -1,0 +1,15 @@
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\bin\Debug\CaptainClient.exe.config
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\bin\Debug\CaptainClient.exe
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\bin\Debug\CaptainClient.pdb
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\bin\Debug\RemotingService.exe
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\bin\Debug\RemotingService.pdb
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\obj\Debug\MainWindow.g.cs
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\obj\Debug\App.g.cs
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\obj\Debug\CaptainClient_MarkupCompile.cache
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\obj\Debug\CaptainClient_MarkupCompile.lref
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\obj\Debug\MainWindow.baml
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\obj\Debug\CaptainClient.g.resources
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\obj\Debug\CaptainClient.Properties.Resources.resources
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\obj\Debug\CaptainClient.csproj.GenerateResource.Cache
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\obj\Debug\CaptainClient.exe
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\CaptainClient\obj\Debug\CaptainClient.pdb

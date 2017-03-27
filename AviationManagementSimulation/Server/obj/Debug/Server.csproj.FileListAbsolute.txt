@@ -13,3 +13,5 @@ D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj
 D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server.csproj.GenerateResource.Cache
 D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server.exe
 D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\obj\Debug\Server.pdb
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\bin\Debug\RemotingService.exe
+D:\AirPlane\AviationManagementSimulation\AviationManagementSimulation\Server\bin\Debug\RemotingService.pdb

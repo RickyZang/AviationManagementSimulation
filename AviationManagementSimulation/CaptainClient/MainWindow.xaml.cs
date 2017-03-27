@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 using System.Runtime.Remoting;
 using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting.Channels.Tcp;
+using RemotingService;
 namespace CaptainClient
 {
     /// <summary>
@@ -22,20 +23,21 @@ namespace CaptainClient
     /// </summary>
     public partial class MainWindow : Window
     {
-        IRemotingService remoteobj;
+        ICaptainService remoteService;
         public MainWindow()
         {
             
             InitializeComponent();
+            TcpClientChannel chan = new TcpClientChannel();
+            ChannelServices.RegisterChannel(chan, false);
+            //   ChannelServices.RegisterChannel(new TcpClientChannel(),false);
+            remoteService = (ICaptainService)Activator.GetObject(typeof(ICaptainService),
+         "tcp://10.12.51.184:8888/serverMethod", null);
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            TcpClientChannel chan = new TcpClientChannel();
-            ChannelServices.RegisterChannel(chan, false);
-            //   ChannelServices.RegisterChannel(new TcpClientChannel(),false);
-            remoteobj = (IRemotingService)Activator.GetObject(typeof(IRemotingService),
-        "tcp://localhost:9999/serverMethod", null);
+            MessageBox.Show("{0}", remoteService.TestMethod());
         }
     }
 }
