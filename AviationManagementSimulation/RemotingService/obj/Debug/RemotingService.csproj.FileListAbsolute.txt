@@ -1,0 +1,6 @@
+E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\bin\Debug\RemotingService.exe.config
+E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\bin\Debug\RemotingService.exe
+E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\bin\Debug\RemotingService.pdb
+E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\obj\Debug\RemotingService.csprojResolveAssemblyReference.cache
+E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\obj\Debug\RemotingService.exe
+E:\AviationManagementSimulation\AviationManagementSimulation\RemotingService\obj\Debug\RemotingService.pdb
