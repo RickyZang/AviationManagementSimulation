@@ -12,7 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using System.Runtime.Remoting;
+using System.Runtime.Remoting.Channels;
+using System.Runtime.Remoting.Channels.Tcp;
 namespace CaptainClient
 {
     /// <summary>
@@ -20,10 +22,20 @@ namespace CaptainClient
     /// </summary>
     public partial class MainWindow : Window
     {
+        IRemotingService remoteobj;
         public MainWindow()
         {
             
             InitializeComponent();
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            TcpClientChannel chan = new TcpClientChannel();
+            ChannelServices.RegisterChannel(chan, false);
+            //   ChannelServices.RegisterChannel(new TcpClientChannel(),false);
+            remoteobj = (IRemotingService)Activator.GetObject(typeof(IRemotingService),
+        "tcp://localhost:9999/serverMethod", null);
         }
     }
 }
